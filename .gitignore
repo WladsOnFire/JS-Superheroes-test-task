@@ -1,0 +1,43 @@
+# Node modules
+backend/node_modules/
+client/node_modules/
+
+# Build output
+backend/dist/
+client/build/
+client/dist/
+
+# Env files
+backend/.env
+client/.env
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+client/coverage/
+
+# Temp files
+*.tmp
+*.swp
+
+# Database dumps
+*.sql
+*.sqlite
