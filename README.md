@@ -11,7 +11,7 @@ Parts of the project:
 
 How to start (Steps to run the solution):
 
-1. Create or import DB with this structure:
+1. Create or import DB with this structure (MySql DB dump with initial superhero data is located in ./"mysql db"/HeroesDB_Dump.sql):
 
     ![ERD database schema](./docs/db_erd.png)
 
